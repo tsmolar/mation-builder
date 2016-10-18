@@ -1,0 +1,19 @@
+BACKDROP: testbg.png
+ASSET:singer1:1:SCENE:testsinger.png:40:50
+ANIMFRAME:sing1:testsinger.png:255:singer1:1:0,100,20,20:30,30,20,20:40
+ANIMFRAME:sing1:testsinger.png:255:singer1:2:20,100,20,20:30,30,20,20:40
+ANIMFRAME:sing1:testsinger.png:255:singer1:3:40,100,20,20:30,30,20,20:40
+ANIMFRAME:sing1:testsinger.png:255:singer1:0:0,100,20,20:30,30,20,20:40
+ANIMFRAME:sing1:testsinger.png:0:singer1:0:0,100,20,20:30,30,20,20:40
+ANIMFRAME:sing1:testsinger.png:0:singer1:1:40,100,20,20:30,30,20,20:40
+ANIMFRAME:sing1:testsinger.png:0:singer1:2:20,100,20,20:30,30,20,20:40
+ANIMFRAME:sing1:testsinger.png:0:singer1:0:0,100,20,20:30,30,20,20:40
+ASSET:guitar1:1:SCENE:testguitar.png:40:50
+ANIMFRAME:strum1:testguitar.png:255:guitar1:1:0,100,20,20:30,30,20,20:40
+ANIMFRAME:strum1:testguitar.png:255:guitar1
+ANIMFRAME:strum1:testguitar.png:255:guitar1:3:40,100,20,20:30,30,20,20:40
+ANIMFRAME:strum1:testguitar.png:255:guitar1:0:0,100,20,20:30,30,20,20:40
+ANIMFRAME:strum1:testguitar.png:0:guitar1:0:0,100,20,20:30,30,20,20:40
+ANIMFRAME:strum1:testguitar.png:0:guitar1:1:40,100,20,20:30,30,20,20:40
+ANIMFRAME:strum1:testguitar.png:0:guitar1:2:20,100,20,20:30,30,20,20:40
+ANIMFRAME:strum1:testguitar.png:0:guitar1:0:0,100,20,20:30,30,20,20:40
